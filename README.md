@@ -59,9 +59,9 @@ streamlit run app.py
 - **Ask any question about the article and get instant responses.**
 
 
-## 📽️ Demo Video
-Click below to watch a demo of the News Article Analyzer in action:  
-[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](videos/demo.mp4)  
+## 📽️ Demo Video  
+[![Watch the Demo](https://img.youtube.com/vi/b0y0kzq5fxc/maxresdefault.jpg)](https://youtu.be/b0y0kzq5fxc)  
+  
 
 
 ## 📩 Feedback & Contributions
