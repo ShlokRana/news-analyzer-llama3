@@ -16,11 +16,11 @@ This AI-powered **News Article Analyzer** enables users to paste a news article 
 
 ## 🏗️ Project Structure  
 📂 news-analyzer-llama3
-│── app.py # Streamlit UI
-│── main.py # Core functions (QA Summarization, Vector Storage)
-│── ollama_llm.py # Wrapper for running LLaMA 3.2 3B locally
-│── requirements.txt # Dependencies
-│── README.md # Documentation
+- │── app.py # Streamlit UI
+- │── main.py # Core functions (QA Summarization, Vector Storage)
+- │── ollama_llm.py # Wrapper for running LLaMA 3.2 3B locally
+- │── requirements.txt # Dependencies
+- │── README.md # Documentation
 
 
 ## 🎯 Features  
